@@ -38,7 +38,7 @@ require (
 	github.com/getsentry/raven-go v0.0.0-20180903072508-084a9de9eb03
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-ini/ini v1.40.0 // indirect
-	github.com/go-redsync/redsync v1.0.1
+	github.com/go-redsync/redsync v1.1.1
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/gobwas/glob v0.2.3
